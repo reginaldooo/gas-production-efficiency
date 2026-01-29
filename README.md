@@ -37,6 +37,15 @@ Based on the analysis of the US Federal Oil & Gas dataset (2015-2025):
 
 ---
 
+### 💾 Data Source & Acknowledgements
+The dataset used in this project is sourced from the U.S. Department of the Interior - Office of Natural Resources Revenue (ONRR).
+
+- Dataset Name: US Oil & Gas Production & Disposition 2015-2025
+- Source URL: [Kaggle Dataset by Pinuto](https://www.kaggle.com/datasets/pinuto/us-oil-and-gas-production-and-disposition-20152025?select=OGORBcsv_cleaned.csv)
+- Access Date: January 29, 2026
+
+---
+
 ## 🛠️ Technical Solution
 
 ### Tech Stack
