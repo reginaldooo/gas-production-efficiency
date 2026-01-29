@@ -1,6 +1,6 @@
 # 🛢️ US Gas Production Efficiency Tracker
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gas-appuction-efficiency-bdqkqqrdudbghfmwca6ndt.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gas-appuction-efficiency-vuoovzfuw2xydbgd3gdeux.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange)
 
@@ -8,7 +8,7 @@ An end-to-end data analytics project that monitors natural gas production effici
 
 ## 🚀 Live Demo
 **Click here to view the interactive dashboard:**
-[**👉 Open Gas Efficiency Dashboard**](https://gas-appuction-efficiency-bdqkqqrdudbghfmwca6ndt.streamlit.app/)
+[**👉 Open Gas Efficiency Dashboard**](https://gas-appuction-efficiency-vuoovzfuw2xydbgd3gdeux.streamlit.app/)
 
 ---
 
